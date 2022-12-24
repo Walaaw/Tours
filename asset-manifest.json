@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Tours/static/css/main.f17caf45.css",
-    "main.js": "/Tours/static/js/main.8c517a14.js",
+    "main.js": "/Tours/static/js/main.cda70bda.js",
     "static/js/787.a878afe9.chunk.js": "/Tours/static/js/787.a878afe9.chunk.js",
     "static/media/fa-solid-900.ttf": "/Tours/static/media/fa-solid-900.b1a653db79258eeccc5d.ttf",
     "static/media/fa-brands-400.ttf": "/Tours/static/media/fa-brands-400.450a5c898f0b184b968b.ttf",
@@ -13,11 +13,11 @@
     "static/media/fa-v4compatibility.woff2": "/Tours/static/media/fa-v4compatibility.4ee7f902d88f819e251c.woff2",
     "index.html": "/Tours/index.html",
     "main.f17caf45.css.map": "/Tours/static/css/main.f17caf45.css.map",
-    "main.8c517a14.js.map": "/Tours/static/js/main.8c517a14.js.map",
+    "main.cda70bda.js.map": "/Tours/static/js/main.cda70bda.js.map",
     "787.a878afe9.chunk.js.map": "/Tours/static/js/787.a878afe9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f17caf45.css",
-    "static/js/main.8c517a14.js"
+    "static/js/main.cda70bda.js"
   ]
 }
