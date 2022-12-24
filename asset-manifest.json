@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/YOUR-REPOSITORY-NAME/static/css/main.5e835ec5.css",
-    "main.js": "/YOUR-REPOSITORY-NAME/static/js/main.5a293986.js",
-    "static/js/787.a878afe9.chunk.js": "/YOUR-REPOSITORY-NAME/static/js/787.a878afe9.chunk.js",
-    "static/media/fa-solid-900.ttf": "/YOUR-REPOSITORY-NAME/static/media/fa-solid-900.b1a653db79258eeccc5d.ttf",
-    "static/media/fa-brands-400.ttf": "/YOUR-REPOSITORY-NAME/static/media/fa-brands-400.450a5c898f0b184b968b.ttf",
-    "static/media/fa-solid-900.woff2": "/YOUR-REPOSITORY-NAME/static/media/fa-solid-900.41c0f706d8ce93933771.woff2",
-    "static/media/fa-brands-400.woff2": "/YOUR-REPOSITORY-NAME/static/media/fa-brands-400.3ac6859b28be946745f9.woff2",
-    "static/media/fa-regular-400.ttf": "/YOUR-REPOSITORY-NAME/static/media/fa-regular-400.3cd9fb8fcec4ad0f99d4.ttf",
-    "static/media/fa-regular-400.woff2": "/YOUR-REPOSITORY-NAME/static/media/fa-regular-400.1f3772178d9e5bed38a6.woff2",
-    "static/media/fa-v4compatibility.ttf": "/YOUR-REPOSITORY-NAME/static/media/fa-v4compatibility.e314b618134d5be20996.ttf",
-    "static/media/fa-v4compatibility.woff2": "/YOUR-REPOSITORY-NAME/static/media/fa-v4compatibility.4ee7f902d88f819e251c.woff2",
-    "index.html": "/YOUR-REPOSITORY-NAME/index.html",
-    "main.5e835ec5.css.map": "/YOUR-REPOSITORY-NAME/static/css/main.5e835ec5.css.map",
-    "main.5a293986.js.map": "/YOUR-REPOSITORY-NAME/static/js/main.5a293986.js.map",
-    "787.a878afe9.chunk.js.map": "/YOUR-REPOSITORY-NAME/static/js/787.a878afe9.chunk.js.map"
+    "main.css": "/Tours/static/css/main.f17caf45.css",
+    "main.js": "/Tours/static/js/main.8c517a14.js",
+    "static/js/787.a878afe9.chunk.js": "/Tours/static/js/787.a878afe9.chunk.js",
+    "static/media/fa-solid-900.ttf": "/Tours/static/media/fa-solid-900.b1a653db79258eeccc5d.ttf",
+    "static/media/fa-brands-400.ttf": "/Tours/static/media/fa-brands-400.450a5c898f0b184b968b.ttf",
+    "static/media/fa-solid-900.woff2": "/Tours/static/media/fa-solid-900.41c0f706d8ce93933771.woff2",
+    "static/media/fa-brands-400.woff2": "/Tours/static/media/fa-brands-400.3ac6859b28be946745f9.woff2",
+    "static/media/fa-regular-400.ttf": "/Tours/static/media/fa-regular-400.3cd9fb8fcec4ad0f99d4.ttf",
+    "static/media/fa-regular-400.woff2": "/Tours/static/media/fa-regular-400.1f3772178d9e5bed38a6.woff2",
+    "static/media/fa-v4compatibility.ttf": "/Tours/static/media/fa-v4compatibility.e314b618134d5be20996.ttf",
+    "static/media/fa-v4compatibility.woff2": "/Tours/static/media/fa-v4compatibility.4ee7f902d88f819e251c.woff2",
+    "index.html": "/Tours/index.html",
+    "main.f17caf45.css.map": "/Tours/static/css/main.f17caf45.css.map",
+    "main.8c517a14.js.map": "/Tours/static/js/main.8c517a14.js.map",
+    "787.a878afe9.chunk.js.map": "/Tours/static/js/787.a878afe9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5e835ec5.css",
-    "static/js/main.5a293986.js"
+    "static/css/main.f17caf45.css",
+    "static/js/main.8c517a14.js"
   ]
 }
