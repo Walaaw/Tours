@@ -8,8 +8,8 @@ export default function Tours({ tours, deleteTour }) {
       <div className="container">
         <div className="row">
           <div className="col-md-6 m-auto ">
-            {tours.map((tour) => (
-              <Tour {...tour} deleteTour={deleteTour} />
+            {tours.map((tour,idx) => (
+              <Tour key={idx} {...tour} deleteTour={deleteTour} />
             ))}
           </div>
         </div>

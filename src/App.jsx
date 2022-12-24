@@ -19,7 +19,7 @@ function App() {
     getApi();
   }, []);
 
-  console.log(tours.length);
+ 
   return (
     <>
       {tours ? (
@@ -39,7 +39,7 @@ function App() {
         <div className=" vh-100 w-100 bg-light d-flex justify-content-center ">
           <div>
             <h2 className="text-center text-dark  my-5">Loading..........</h2>
-            <i class="fa-solid fa-spinner fa-2x fa-spin ms-5"></i>
+            <i className="fa-solid fa-spinner fa-2x fa-spin ms-5"></i>
           </div>
         </div>
       )}
